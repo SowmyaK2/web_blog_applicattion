@@ -1,0 +1,43 @@
+
+#title{
+    display: grid;
+    place-items: center;
+    width: 300px;
+    height: 35px;
+    margin-bottom: 1%;
+    margin-left: 30%;
+    margin-top: 5%;
+    
+    
+}
+
+#content{
+    display: grid;
+    place-items: center;
+    width: 300px;
+    height: 150px;
+    margin-bottom: 1%;
+    margin-left: 30%;
+    border-radius: 10%;
+     
+}
+
+input[type="submit"]{
+    display: grid;
+    place-items: center;
+    width: 100px;
+    height:30px;
+    margin-bottom: 1%;
+    margin-left: 40%;
+    background-color: #fdc094;
+}
+
+
+.blogPage{
+    border: 1px solid black;
+    margin-top: 10px;
+    
+}
+.content{
+    inset-block-start: 0%;
+}
